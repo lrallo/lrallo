@@ -34,4 +34,4 @@ MSc Bioengineering Student | Focused on Medical AI, Signal Processing & Neurosci
 ### ⌚ Wearable Technologies & Sports Analytics
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Sustainable Tourism GPX Analyzer](#)** | App developed for healthcare and wellbeing, analyzing past training data to optimize and categorize GPX tracks for walking and cycling tourism. | *TBD* |
+| **[Sustainable Tourism GPX Analyzer](https://github.com/lrallo/SmartStage_App)** | App developed for healthcare and wellbeing, analyzing past training data to optimize and categorize GPX tracks for walking and cycling tourism. | Flutter, REST API |
