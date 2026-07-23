@@ -30,7 +30,7 @@ MSc Bioengineering Student | Focused on Medical AI, Signal Processing & Neurosci
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
 | **[EEG & CoP Analysis in Idiopathic Scoliosis](#)** | Evaluated postural control and stability in an AIS subject before and after treatment[cite: 5]. Processed 64-channel EEG and force platform CoP signals[cite: 5], performing PSD estimation, Higuchi Fractal Dimension (HFD) extraction, and stabilometric parameter computation[cite: 5]. | MATLAB, Signal Processing |
-| **[Multimodal Brain Imaging Integration](https://github.com/lrallo/Multimodal-Brain-Imaging)** | Pipeline for preprocessing and integrating T1w, [18F]FDG-PET, and rs-fMRI data to investigate the relationship between brain functional organization and metabolic burden using FSL and Graph Theory. | MATLAB, FSL, Shell |
+| **[Multimodal Brain Imaging Integration](https://github.com/lrallo/Multimodal-Brain-Imagin)** | Pipeline for preprocessing and integrating T1w, [18F]FDG-PET, and rs-fMRI data to investigate the relationship between brain functional organization and metabolic burden using FSL and Graph Theory. | MATLAB, FSL, Shell |
 ### ⌚ Wearable Technologies & Sports Analytics
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
