@@ -26,5 +26,5 @@ MSc Bioengineering Student | Focused on Medical AI, Signal Processing & Neurosci
   *Placeholder for your neuroscience project — click edit to update this description later.*
 
 ### 🧠 Deep Learning & Medical AI
-* **[Deep Learning Project Name]**
-  *Placeholder for your deep learning project — click edit to update this description later.*
+* **[Confused-Student EEG Prediction](https://github.com/lrallo/EEG-Confusion-DeepLearning)**
+  Developed a hybrid Conv1D-LSTM model with a custom Attention layer to predict mental confusion states from EEG signals. Addressed data leakage through a Leave-One-Subject-Out (LOSO) cross-validation strategy, achieving ~88% validation accuracy[cite: 1].
