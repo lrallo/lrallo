@@ -14,17 +14,25 @@ MSc Bioengineering Student | Focused on Medical AI, Signal Processing & Neurosci
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 ## 🌟 My Featured Projects
 
-### ☢️ Medical Physics & Proton Therapy
-* **[Proton Therapy Labs](https://github.com/lrallo/Proton_Therapy_Portfolio)**
-  Advanced laboratory assignments from my Erasmus at UCLouvain (LGBIO 2070)[cite: 7, 8]. It includes Python-based Monte Carlo simulations for proton dose calculation (Bragg Peak)[cite: 2, 3], beam optics optimization via quadrupole configuration[cite: 4, 6], and motion mitigation algorithms (Adaptive Spot Triggering) for moving targets[cite: 5, 6].
-
-### 🧠 Signal Processing & Neuroscience
-* **[Imaging for Neuroscience]**
-  *Placeholder for your neuroscience project — click edit to update this description later.*
-
 ### 🧠 Deep Learning & Medical AI
-* **[Confused-Student EEG Prediction](https://github.com/lrallo/EEG-Confusion-DeepLearning)**
-  Developed a hybrid Conv1D-LSTM model with a custom Attention layer to predict mental confusion states from EEG signals. Addressed data leakage through a Leave-One-Subject-Out (LOSO) cross-validation strategy, achieving ~88% validation accuracy[cite: 1].
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **[Confused-Student EEG Prediction](https://github.com/lrallo/EEG-Confusion-DeepLearning)** | Developed a hybrid Conv1D-LSTM model with a custom Attention layer to predict mental confusion states from EEG signals. Addressed data leakage through a Leave-One-Subject-Out (LOSO) cross-validation strategy, achieving ~88% validation accuracy. | Python, TensorFlow/Keras, Pandas |
+
+### ☢️ Medical Physics & Proton Therapy
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **[Proton Therapy Labs](https://github.com/lrallo/Proton_Therapy_Portfolio)** | Advanced laboratory assignments from my Erasmus at UCLouvain (LGBIO 2070). Includes Python-based Monte Carlo simulations for proton dose calculation (Bragg Peak), beam optics optimization via quadrupole configuration, and motion mitigation algorithms (Adaptive Spot Triggering) for moving targets. | Python, NumPy, Matplotlib |
+
+### 🔬 Signal Processing & Neuroscience
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **[EEG & CoP Analysis in Idiopathic Scoliosis](#)** | Evaluated postural control and stability in an AIS subject before and after treatment[cite: 5]. Processed 64-channel EEG and force platform CoP signals[cite: 5], performing PSD estimation, Higuchi Fractal Dimension (HFD) extraction, and stabilometric parameter computation[cite: 5]. | MATLAB, Signal Processing |
+| **[Imaging for Neuroscience](#)** | *Work in progress — development phase.* | *TBD* |
+
+### ⌚ Wearable Technologies & Sports Analytics
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **[Sustainable Tourism GPX Analyzer](#)** | App developed for healthcare and wellbeing, analyzing past training data to optimize and categorize GPX tracks for walking and cycling tourism. | *TBD* |
